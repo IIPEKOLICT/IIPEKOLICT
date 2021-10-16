@@ -73,5 +73,5 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=IIPEKOLICT&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Shcherbakov&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Shcherbakov&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
