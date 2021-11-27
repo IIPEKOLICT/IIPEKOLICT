@@ -75,7 +75,7 @@
 
 <details style="padding: 1em 0">
     <summary style="padding-bottom: 1em; font-size: 1.5em; font-weight: 700; outline: none; cursor: pointer">Stats</summary>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <a style="margin-top: 1em" href="https://github.com/anuraghazra/github-readme-stats">
         <img 
             width="400px"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=IIPEKOLICT&theme=dark&layout=compact" 
