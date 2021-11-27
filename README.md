@@ -73,14 +73,20 @@
     <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white" alt="WebStorm">
 </details>
 
-<details style="padding: .5em 0">
-    <summary style="padding-bottom: 1em; font-size: 1.5em; font-weight: bold; outline: none; cursor: pointer">Stats</summary>
+<details style="padding: 1em 0">
+    <summary style="padding-bottom: 1em; font-size: 1.5em; font-weight: 700; outline: none; cursor: pointer">Stats</summary>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IIPEKOLICT&theme=dark&langs_count=10&layout=compact" alt="Lang stats">
+        <img 
+            width="400px"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=IIPEKOLICT&theme=dark&layout=compact" 
+            alt="Lang stats"
+        >
         <br>
-        <img src="https://github-readme-stats.vercel.app/api?username=IIPEKOLICT&theme=dark" alt="Github stats">
-        <br>
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Shcherbakov&theme=dark&layout=compact" alt="Wakatime stats">
+        <img
+            width="400px"
+            src="https://github-readme-stats.vercel.app/api?username=IIPEKOLICT&theme=dark" 
+            alt="Github stats"
+        >
     </a>
 </details>
 
