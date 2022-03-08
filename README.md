@@ -2,7 +2,7 @@
     <h1>Hi there 👋, I'm Zhenya Shcherbakov</h1>
     <img src="https://komarev.com/ghpvc/?username=IIPEKOLICT" alt="Visitors">
     <br>
-    <h2>I'm a freelancer now</h2>
+    <h2>I'm a Node.js developer now</h2>
     <p>💪 I like to write code</p>
     <p>🎉 I like doing sports</p>
     <p>🥅 I am constantly learning new things</p>
